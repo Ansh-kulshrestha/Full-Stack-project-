@@ -1,12 +1,12 @@
 <b>Zosh Food: Online Food Delivery Application
 Project Overview
 Zosh Food is a state-of-the-art Online Food Delivery Application that bridges the gap between restaurants and food enthusiasts. <br>
-This platform allows restaurant owners to effortlessly register their establishments while enabling customers to savor their favorite meals with unparalleled ease.<b>
+This platform allows restaurant owners to effortlessly register their establishments while enabling customers to savor their favorite meals with unparalleled ease.</b>
 
-<b>Key Features<b>
+<b>Key Features</b>
 <b>Multi-vendor Support:</b> Unlock a vast array of dining choices as multiple restaurants register and offer their delicious cuisines on the Zosh Food platform. <br>
 Tailored Admin Panels: Empower restaurant owners with specialized admin panels and a super admin panel for platform owners, ensuring smooth operations for all parties involved. <br>
-<b>Role-based Access:<b> Seamlessly manage user roles and access levels, guaranteeing a secure and controlled experience. <br>
+<b>Role-based Access:</b> Seamlessly manage user roles and access levels, guaranteeing a secure and controlled experience. <br>
 <b>User-friendly Functions:</b> Convenient features including 'Add to Favorite,' 'Carousel Display,' 'Add to Cart,' and 'Remove from Cart,' enhancing the overall user experience. <br>
 <b>Robust Security Measures:</b> Implementing secure authentication, password reset via email, and email notifications for order updates, alongside the integration of the Stripe payment gateway. <br>
 Technologies Utilized
